@@ -1,7 +1,6 @@
 import requests
 import sys
 
-
 def fetch_github_activity(username):
 
     url = f"https://api.github.com/users/{username}/events"

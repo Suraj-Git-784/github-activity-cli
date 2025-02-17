@@ -10,6 +10,7 @@ Requirements
 Python 3.x installed.
 requests library (used to fetch data from GitHub's API).
 Installation
+
 Clone the repository:
 
 git clone https://github.com/yourusername/github-activity-cli.git
